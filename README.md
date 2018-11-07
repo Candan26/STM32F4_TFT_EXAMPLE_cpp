@@ -26,6 +26,7 @@ ON TFT 				ON STMF4-Discovery
 
 NOT: In the begenning of program there are 3 macro definition  just un command the one which you want to test
 by default TEST_ANALOG_METER is on uncommand 
+
 //#define TEST_TFT_RINGMETER 
 //#define TEST_TFT_PIE_CHART
 #define TEST_ANALOG_METER 
