@@ -23,3 +23,9 @@ ON TFT 				ON STMF4-Discovery
 6)	SDA                                                    Connect to PA7 as SPI1_MOSI
 7)	SCK                                                     Connect to PA5 as SPI1_SCK
 8)	LED                                                     Connect to 3.3 pin 
+
+NOT: In the begenning of program there are 3 macro definition  just un command the one which you want to test
+by default TEST_ANALOG_METER is on uncommand 
+//#define TEST_TFT_RINGMETER 
+//#define TEST_TFT_PIE_CHART
+#define TEST_ANALOG_METER 
