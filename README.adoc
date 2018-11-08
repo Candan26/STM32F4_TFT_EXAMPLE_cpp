@@ -32,4 +32,4 @@ by default TEST_ANALOG_METER is on uncommand
 //#define TEST_TFT_PIE_CHART
 
 #define TEST_ANALOG_METER 
-![alt text](https://github.com/Candan26/STM32F4_TFT_EXAMPLE_cpp/blob/master/discvoeryDiagramTFT.png)
+
