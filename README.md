@@ -33,3 +33,4 @@ by default TEST_ANALOG_METER is on uncommand
 
 #define TEST_ANALOG_METER 
 
+![discvoerydiagramtft](https://user-images.githubusercontent.com/21033733/48180897-81c96a00-e336-11e8-9354-df96f49505fd.png)
